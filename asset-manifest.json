@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pepfrontend/static/css/main.a240c550.css",
+    "main.js": "/pepfrontend/static/js/main.873b6ecc.js",
+    "index.html": "/pepfrontend/index.html",
+    "main.a240c550.css.map": "/pepfrontend/static/css/main.a240c550.css.map",
+    "main.873b6ecc.js.map": "/pepfrontend/static/js/main.873b6ecc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.873b6ecc.js"
+  ]
+}
